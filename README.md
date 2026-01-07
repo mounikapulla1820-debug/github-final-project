@@ -1,19 +1,17 @@
-Please consider the below factors while contributing
+# Simple Interest Calculator
 
-Code Style:
-Maintain a consistent code style for readability.
+This project explains a simple interest calculator.
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+## Formula
+Simple Interest = (Principal × Rate × Time) / 100
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+## Description
+The simple interest calculator is used to calculate the interest earned on a principal amount for a given rate of interest and time period.
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
+## Example
+Principal = 1000  
+Rate = 5  
+Time = 2  
 
-Code Review:
-All contributions undergo a code review process.
+Simple Interest = (1000 × 5 × 2) / 100 = 100
 
-Licensing:
-Contributions are licensed.
